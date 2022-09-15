@@ -21,5 +21,12 @@ Firebase for TSA
 
 ## Tulis pesan ke Cloud Firestore
 ![image](https://user-images.githubusercontent.com/64391578/190385330-9b399bcd-140e-45d5-bf2b-78c1012e0b72.png)
+
 ![image](https://user-images.githubusercontent.com/64391578/190385450-0ab1b3f9-e96a-43d2-bd17-e730cf82b578.png)
+
+## Baca Pesan
+![image](https://user-images.githubusercontent.com/64391578/190390525-a3182b2b-684d-47a7-b5c2-f749accc2e6f.png)
+
+## Aturan Keamanan Dasar
+![image](https://user-images.githubusercontent.com/64391578/190392654-df75a279-cb4d-444d-a45b-734b912ed242.png)
 
