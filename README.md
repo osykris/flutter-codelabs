@@ -30,3 +30,8 @@ Firebase for TSA
 ## Aturan Keamanan Dasar
 ![image](https://user-images.githubusercontent.com/64391578/190392654-df75a279-cb4d-444d-a45b-734b912ed242.png)
 
+## Status RSVP Peserta
+![image](https://user-images.githubusercontent.com/64391578/190400250-f74e0153-2941-47f8-a012-e310ae2bae74.png)
+
+## Update Aturan Keamanan Dasar
+![image](https://user-images.githubusercontent.com/64391578/190400314-ea64eaa8-321d-479d-8a4e-8ecec1d291d8.png)
