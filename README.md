@@ -26,3 +26,7 @@ Firebase for TSA
 
 ## Baca Pesan
 ![image](https://user-images.githubusercontent.com/64391578/190390525-a3182b2b-684d-47a7-b5c2-f749accc2e6f.png)
+
+## Aturan Keamanan Dasar
+![image](https://user-images.githubusercontent.com/64391578/190392654-df75a279-cb4d-444d-a45b-734b912ed242.png)
+
